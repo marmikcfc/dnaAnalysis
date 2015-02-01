@@ -1,4 +1,4 @@
 dnaAnalysis
 ===========
 
-playing arounde with genome.js
+playing around with genome.js
